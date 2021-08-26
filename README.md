@@ -3,4 +3,4 @@ Abstract— Violence detection has been investigated extensively in the literatu
 
 # Status : Accepted.
 
-# Presentation date: 15/08/2021
+# Presentation date: 15/09/2021
